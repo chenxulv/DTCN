@@ -1,0 +1,36 @@
+# All dialog numbers:   3925
+# Max dialog lens: 34, Min dialog lens: 4
+# Max utterance lens: 90
+# utterance length greater than 32 words: 1157
+# Domains numbers: 14
+	 min number: 61, max number: 800
+	# Restaurants_1                  number: 367
+	# Media_1                        number: 275
+	# Events_2                       number: 568
+	# Music_2                        number: 331
+	# Movies_1                       number: 292
+	# Flights_1                      number: 800
+	# RideSharing_1                  number: 61
+	# RentalCars_2                   number: 111
+	# Buses_2                        number: 159
+	# Services_3                     number: 188
+	# Homes_1                        number: 268
+	# Banks_1                        number: 207
+	# Calendar_1                     number: 169
+	# Hotels_3                       number: 129
+# Task distribution:
+	# Restaurants_1                 :    2, task numbers for each domain: [217, 150]
+	# Media_1                       :    2, task numbers for each domain: [63, 212]
+	# Events_2                      :    3, task numbers for each domain: [196, 300, 72]
+	# Music_2                       :    1, task numbers for each domain: [331]
+	# Movies_1                      :    1, task numbers for each domain: [292]
+	# Flights_1                     :    6, task numbers for each domain: [55, 75, 136, 226, 250, 58]
+	# RideSharing_1                 :    1, task numbers for each domain: [61]
+	# RentalCars_2                  :    2, task numbers for each domain: [84, 27]
+	# Buses_2                       :    2, task numbers for each domain: [64, 95]
+	# Services_3                    :    3, task numbers for each domain: [86, 50, 52]
+	# Homes_1                       :    2, task numbers for each domain: [170, 98]
+	# Banks_1                       :    1, task numbers for each domain: [207]
+	# Calendar_1                    :    2, task numbers for each domain: [86, 83]
+	# Hotels_3                      :    1, task numbers for each domain: [129]
+# Tasks numbers: 29

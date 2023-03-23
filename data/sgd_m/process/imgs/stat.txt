@@ -1,0 +1,94 @@
+# All dialog numbers:   4722
+# Max dialog lens: 42, Min dialog lens: 8
+# Max utterance lens: 104
+# utterance length greater than 32 words: 1527
+# Domains numbers: 43
+	 min number: 36, max number: 459
+	# Buses_2#Events_2               number: 151
+	# Movies_1#RideSharing_1         number: 85
+	# Restaurants_1#Weather_1        number: 46
+	# Music_2#Weather_1              number: 62
+	# Hotels_3#Weather_1             number: 82
+	# Events_2#Music_2               number: 38
+	# Flights_1#Hotels_3             number: 163
+	# Buses_2#Flights_1              number: 156
+	# Events_2#RentalCars_2          number: 36
+	# Flights_1#Travel_1             number: 109
+	# Events_2#Flights_1             number: 38
+	# Flights_1#RentalCars_2         number: 76
+	# Calendar_1#Services_3          number: 112
+	# Calendar_1#Homes_1             number: 235
+	# Calendar_1#Movies_1            number: 117
+	# Banks_1#Media_1#Music_2        number: 55
+	# Banks_1#Media_1                number: 58
+	# Calendar_1#Restaurants_1       number: 101
+	# Flights_1#Hotels_3#Travel_1    number: 163
+	# Events_2#Restaurants_1         number: 233
+	# Media_1#Movies_1#Travel_1      number: 144
+	# Buses_2#Hotels_3#Travel_1      number: 139
+	# Movies_1#Restaurants_1         number: 459
+	# Movies_1#RentalCars_2#Travel_1 number: 45
+	# Homes_1#RideSharing_1          number: 82
+	# Buses_2#Travel_1               number: 75
+	# RideSharing_1#Travel_1#Weather_1 number: 83
+	# Hotels_3#Travel_1              number: 155
+	# Buses_2#Hotels_3               number: 80
+	# Banks_1#Events_2               number: 175
+	# Events_2#Media_1               number: 37
+	# Calendar_1#Events_2            number: 128
+	# Calendar_1#RideSharing_1#Travel_1 number: 88
+	# Events_2#Weather_1             number: 39
+	# Movies_1#Music_2               number: 76
+	# Media_1#Restaurants_1          number: 277
+	# Services_3#Weather_1           number: 51
+	# Restaurants_1#RideSharing_1    number: 78
+	# Homes_1#RentalCars_2           number: 89
+	# RentalCars_2#Travel_1          number: 83
+	# Hotels_3#RentalCars_2          number: 56
+	# Events_2#Hotels_3              number: 85
+	# Calendar_1#RideSharing_1       number: 82
+# Task distribution:
+	# Buses_2#Events_2              :    1, task numbers for each domain: [151]
+	# Movies_1#RideSharing_1        :    1, task numbers for each domain: [85]
+	# Restaurants_1#Weather_1       :    1, task numbers for each domain: [46]
+	# Music_2#Weather_1             :    1, task numbers for each domain: [62]
+	# Hotels_3#Weather_1            :    1, task numbers for each domain: [82]
+	# Events_2#Music_2              :    1, task numbers for each domain: [38]
+	# Flights_1#Hotels_3            :    2, task numbers for each domain: [80, 83]
+	# Buses_2#Flights_1             :    2, task numbers for each domain: [78, 78]
+	# Events_2#RentalCars_2         :    1, task numbers for each domain: [36]
+	# Flights_1#Travel_1            :    1, task numbers for each domain: [109]
+	# Events_2#Flights_1            :    1, task numbers for each domain: [38]
+	# Flights_1#RentalCars_2        :    1, task numbers for each domain: [76]
+	# Calendar_1#Services_3         :    2, task numbers for each domain: [58, 54]
+	# Calendar_1#Homes_1            :    2, task numbers for each domain: [121, 114]
+	# Calendar_1#Movies_1           :    1, task numbers for each domain: [117]
+	# Banks_1#Media_1#Music_2       :    1, task numbers for each domain: [55]
+	# Banks_1#Media_1               :    1, task numbers for each domain: [58]
+	# Calendar_1#Restaurants_1      :    1, task numbers for each domain: [101]
+	# Flights_1#Hotels_3#Travel_1   :    1, task numbers for each domain: [163]
+	# Events_2#Restaurants_1        :    4, task numbers for each domain: [86, 36, 36, 75]
+	# Media_1#Movies_1#Travel_1     :    1, task numbers for each domain: [144]
+	# Buses_2#Hotels_3#Travel_1     :    1, task numbers for each domain: [139]
+	# Movies_1#Restaurants_1        :    4, task numbers for each domain: [138, 154, 85, 82]
+	# Movies_1#RentalCars_2#Travel_1:    1, task numbers for each domain: [45]
+	# Homes_1#RideSharing_1         :    1, task numbers for each domain: [82]
+	# Buses_2#Travel_1              :    1, task numbers for each domain: [75]
+	# RideSharing_1#Travel_1#Weather_1:    1, task numbers for each domain: [83]
+	# Hotels_3#Travel_1             :    1, task numbers for each domain: [155]
+	# Buses_2#Hotels_3              :    2, task numbers for each domain: [39, 41]
+	# Banks_1#Events_2              :    2, task numbers for each domain: [93, 82]
+	# Events_2#Media_1              :    1, task numbers for each domain: [37]
+	# Calendar_1#Events_2           :    2, task numbers for each domain: [43, 85]
+	# Calendar_1#RideSharing_1#Travel_1:    1, task numbers for each domain: [88]
+	# Events_2#Weather_1            :    1, task numbers for each domain: [39]
+	# Movies_1#Music_2              :    1, task numbers for each domain: [76]
+	# Media_1#Restaurants_1         :    3, task numbers for each domain: [108, 86, 83]
+	# Services_3#Weather_1          :    1, task numbers for each domain: [51]
+	# Restaurants_1#RideSharing_1   :    1, task numbers for each domain: [78]
+	# Homes_1#RentalCars_2          :    1, task numbers for each domain: [89]
+	# RentalCars_2#Travel_1         :    1, task numbers for each domain: [83]
+	# Hotels_3#RentalCars_2         :    1, task numbers for each domain: [56]
+	# Events_2#Hotels_3             :    2, task numbers for each domain: [42, 43]
+	# Calendar_1#RideSharing_1      :    1, task numbers for each domain: [82]
+# Tasks numbers: 59
